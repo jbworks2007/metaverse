@@ -1,0 +1,11 @@
+.vid-size {
+    width: 100%;
+    height: 720px;
+}
+
+@media (max-width: 576px) {
+    .vid-size {
+        width: 100%;
+        height: 240px;
+    }
+}
